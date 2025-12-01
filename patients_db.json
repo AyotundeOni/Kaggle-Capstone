@@ -1,0 +1,45 @@
+{
+    "JohnDoe": {
+        "age": 25,
+        "weight": 60,
+        "history": []
+    },
+    "TestUser": {
+        "age": 20,
+        "weight": 53,
+        "history": [
+            "Hello. I am **Patho-Bot**, your expert AI Pathologist and Malaria Specialist. I am here to assist with the diagnosis and treatment planning for this patient.\n\nBased on the clinical details provided (Deep Breathing, Jaundice) and the image analysis, here is my assessment.\n\n### **1. Blood Smear Analysis (Specialist Pathologist)**\nI analyzed the image (`/var/folders/wg/tmw31dyd12q6v1dwgzdgk9xw0000gn/T/tmp1hcc1yb0.png`) using the **Large** model.\n\n*   **Parasites Detected**: 6\n*   **WBCs Detected**: 1\n*   **Calculated Parasitemia**: **48,000 parasites/\u00b5L**\n    *(Formula: (6 / 1) * 8000)*\n\n### **2. Severity Assessment**\n**SEVERE MALARIA - REFER IMMEDIATELY**\n\nAlthough the parasitic count (48,000/\u00b5L) usually falls within the \"Uncomplicated\" range numerically, the patient presents with **Deep Breathing (Acidosis)** and **Jaundice**. According to WHO Guidelines, the presence of these danger signs classifies this case as **SEVERE MALARIA** regardless of the parasite count.\n\n### **3. Treatment Recommendation (Pharmacist/Doctor)**\n**Patient Profile**: 20 years old | 53 kg\n\n**IMMEDIATE ACTION**:\nThis patient requires immediate hospitalization and parenteral antimalarial therapy.\n\n**First-Line Treatment (WHO Guidelines):**\n*   **Drug**: **Injectable Artesunate** (Intravenous or Intramuscular).\n*   **Dosage Calculation**: 2.4 mg/kg body weight.\n    *   *Calculation*: 53 kg \u00d7 2.4 mg/kg = **127.2 mg per dose**.\n*   **Schedule**: Give the first dose at **0 hours**, second dose at **12 hours**, and third dose at **24 hours**.\n*   **Duration**: Continue for at least 24 hours and until the patient can tolerate oral medication.\n\n**Follow-Up**:\nOnce the patient can tolerate oral intake, complete the treatment with a full 3-day course of an **Artemisinin-based Combination Therapy (ACT)**, such as Artemether-lumefantrine.\n\n*Please proceed with the referral and emergency stabilization immediately.*",
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:02 ---\nPatient presented with: Fever.\nAI Diagnosis:\n"
+        ]
+    },
+    "aby": {
+        "age": 25,
+        "weight": 60,
+        "history": [
+            "--- CLINICAL ENCOUNTER: 2025-11-29 23:48 ---\nPatient presented with: Fever, Headache.\nAI Diagnosis:\n",
+            "--- CLINICAL ENCOUNTER: 2025-11-29 23:48 ---\nPatient presented with: Fever, Headache.\nAI Diagnosis:\n",
+            "--- CLINICAL ENCOUNTER: 2025-11-29 23:50 ---\nPatient presented with: Fever.\nAI Diagnosis:\n"
+        ]
+    },
+    "ayotunde326": {
+        "age": 25,
+        "weight": 60,
+        "history": [
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:20 ---\nPatient presented with: Headache, Chills/Sweats.\nAI Diagnosis:\n",
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:20 ---\nPatient presented with: Headache, Chills/Sweats.\nAI Diagnosis:\n",
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:20 ---\nPatient presented with: Nausea/Vomiting.\nAI Diagnosis:\n",
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:21 ---\nPatient presented with: Nausea/Vomiting.\nAI Diagnosis:\n",
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:21 ---\nPatient presented with: Nausea/Vomiting.\nAI Diagnosis:\n",
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:22 ---\nPatient presented with: Muscle/Joint Pain, Nausea/Vomiting.\nAI Diagnosis:\n",
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:23 ---\nPatient presented with: Muscle/Joint Pain, Nausea/Vomiting.\nAI Diagnosis:\n"
+        ]
+    },
+    "babay": {
+        "age": 25,
+        "weight": 60,
+        "history": [
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:30 ---\nPatient presented with: Headache.\nAI Diagnosis:\nHello! I'm Patho-Bot, your AI Pathologist and Malaria Specialist. I'm here to help with malaria diagnosis and treatment advice.\n\nI will now analyze the blood smear image you provided using the 'Large' model.I have analyzed the blood smear image.\n\nThe analysis detected 4 parasites and 0 white blood cells (WBCs).\n\nNow, I will calculate the parasitemia to determine the severity of the infection.I encountered an issue calculating the parasitemia as no white blood cells (WBCs) were detected in the image. This makes it impossible to accurately determine the parasite density and severity of the malaria infection.\n\nTo provide accurate treatment recommendations, I need a reliable WBC count. Could you please provide a fresh blood smear analysis or any available WBC count for this patient?",
+            "--- CLINICAL ENCOUNTER: 2025-11-30 00:32 ---\nPatient presented with: Headache.\nAI Diagnosis:\nHello! I'm Patho-Bot, your AI Pathologist and Malaria Specialist. I'm here to help you with malaria diagnosis and treatment recommendations.\n\nI will now analyze the blood smear image you provided using the 'Large' model.\nI have analyzed the blood smear image.\n\nThe analysis detected 6 parasites and 1 white blood cell (WBC).\n\nNow, I will calculate the parasitemia to determine the severity of the infection.\nThe calculated parasitemia is 48,000 parasites/\u00b5L, which classifies this as **Uncomplicated Malaria**.\n\nFor uncomplicated malaria in a 25-year-old weighing 60kg, the WHO guidelines recommend:\n\n*   **Artemether-Lumefantrine (AL)**: A full treatment course consists of 6 doses over 3 days. The dosage is weight-based. For a 60kg patient, this would typically be 4 tablets of AL (20mg/40mg strength) per dose, taken at 0, 8, 24, 36, 48, and 60 hours.\n\n**Important Considerations:**\n*   This recommendation is based on the provided information and standard WHO guidelines.\n*   Always ensure the patient completes the full course of treatment, even if symptoms improve earlier.\n*   If the patient experiences vomiting within 30 minutes of taking the medication, a repeat dose is usually needed. If vomiting occurs 30-60 minutes after ingestion, consider giving half the dose again.\n*   Co-administration with fatty foods can enhance absorption.\n\nDo you have any other questions or need further clarification?"
+        ]
+    }
+}

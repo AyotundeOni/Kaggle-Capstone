@@ -1,0 +1,37 @@
+WHO Malaria Treatment Guidelines (August 2025 Update)
+
+1. UNCOMPLICATED MALARIA (P. falciparum)
+   - First-line treatment: Artemisinin-based Combination Therapy (ACT) for 3 days.
+   - Recommended ACTs:
+     - Artemether-lumefantrine (AL)
+     - Artesunate-amodiaquine (AS+AQ)
+     - Dihydroartemisinin-piperaquine (DHA-PPQ)
+   - Dosage (Artemether-lumefantrine):
+     - 5–14 kg (<3 years): 1 tablet twice daily.
+     - 15–24 kg (3–8 years): 2 tablets twice daily.
+     - 25–34 kg (9–14 years): 3 tablets twice daily.
+     - >34 kg (>14 years): 4 tablets twice daily.
+   - Special Groups:
+     - Pregnant women (1st trimester): Quinine + Clindamycin (if ACT not available/safe), otherwise ACT.
+     - Pregnant women (2nd/3rd trimester): ACT.
+
+2. SEVERE MALARIA
+   - Definition: Malaria with complications (e.g., impaired consciousness, convulsions, acidosis, hypoglycemia, severe anemia, renal impairment) or Hyperparasitemia (>10% parasitemia).
+   - First-line treatment: Injectable Artesunate (IV or IM) for at least 24 hours.
+   - Follow-up: Once patient can tolerate oral medication, complete treatment with a full 3-day course of ACT.
+   - Alternative (if Artesunate unavailable): Intramuscular Artemether or Quinine.
+   - Pre-referral treatment: If referral is delayed, give a single dose of Rectal Artesunate (for children < 6 years) or IM Artesunate.
+
+3. P. VIVAX, P. OVALE, P. MALARIAE
+   - Treatment: ACT (same as P. falciparum) or Chloroquine (in areas with chloroquine-sensitive P. vivax).
+   - Radical Cure (P. vivax/ovale): Add Primaquine (0.25–0.5 mg/kg daily for 14 days) or Tafenoquine (single dose) to prevent relapse (check G6PD status first).
+
+4. PARASITEMIA & SEVERITY
+   - Low/Moderate: < 2% infected RBCs.
+   - Hyperparasitemia: > 10% infected RBCs (Severe Malaria criteria).
+   - Calculation: (Parasites / WBCs) * 8000 (assumed WBC count/µL).
+
+5. RECENT UPDATES (2024-2025)
+   - Vaccines: R21/Matrix-M and RTS,S/AS01 recommended for children in high-transmission areas.
+   - Prevention: Indoor Residual Spraying (IRS) with new insecticides (chlorfenapyr, isocycloseram) to combat resistance.
+   - Spatial Repellents: Recommended as a supplementary measure.
