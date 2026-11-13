@@ -3,12 +3,8 @@ import sys
 import logging
 from typing import Optional
 
-# Set API Key (In production, use environment variables)
-# The user provided key: AIzaSyAZQCA-ozuBD9qV6tAk577W_Q-A3U5cYew
-# Set API Key (Only if not already set by Environment)
 if "GOOGLE_API_KEY" not in os.environ:
-    # The user provided key (Fallback for local dev)
-    os.environ["GOOGLE_API_KEY"] = "AIzaSyAZQCA-ozuBD9qV6tAk577W_Q-A3U5cYew"
+    raise SystemExit("Set the GOOGLE_API_KEY environment variable before running.")
 
 # Monkey-patch telemetry to avoid JSON serialization error with bytes
 # MUST be done before importing other ADK components

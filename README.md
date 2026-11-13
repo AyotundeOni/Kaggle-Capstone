@@ -25,7 +25,7 @@
 
 3.  **Setup API Key**:
     Ensure you have a Google Gen AI API Key.
-    (Note: The key is currently hardcoded in `agent.py` for the demo, but should be an environment variable).
+    Export it as an environment variable: `export GOOGLE_API_KEY=...` (never commit it).
 
 4.  **Run the Agent**:
     ```bash
